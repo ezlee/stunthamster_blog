@@ -1,0 +1,16 @@
+{{ template "theme/partials/header.html" . }}
+
+<article>
+    <div class="container">
+        <header>
+            <h1 class="title">{{ .Title }}</h1>
+            {{ with .Description }}<h2 class="subtitle">{{ . }}</h2>{{ end }}
+        </header>
+
+        <section>
+            {{ .Content }}
+        </section>
+    </div>
+</article>
+
+{{ template "theme/partials/footer.html" . }}

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on </title>
+    <link>http://www.stunthamster.io/posts/</link>
+    <description>Recent content in Posts on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 11 Feb 2015 17:01:19 +0000</lastBuildDate>
+    <atom:link href="http://www.stunthamster.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Life without Puppet</title>
+      <link>http://www.stunthamster.io/posts/test/</link>
+      <pubDate>Wed, 11 Feb 2015 17:01:19 +0000</pubDate>
+      
+      <guid>http://www.stunthamster.io/posts/test/</guid>
+      <description>
+
+&lt;p&gt;It&amp;rsquo;s been more than six months since I&amp;rsquo;ve written, commented on, or reviewed any Puppet code. This might come as a shock
+for some folk, especially those who have read my book &amp;lt;&amp;ndash; INSERT LINK &amp;ndash;&amp;gt;. Let&amp;rsquo;s get this out of the way straight away;
+It&amp;rsquo;s not because I think Puppet has suddenly become awful, because that&amp;rsquo;s patently absurd. Puppet is in use in some of
+the largest companies, and is enjoying explosive growth. It&amp;rsquo;s more I&amp;rsquo;ve found a tool that fits my workflow and
+philospohy better.&lt;/p&gt;
+
+&lt;p&gt;For the past year or so, I&amp;rsquo;ve been working with, and hacking on, Ansible. As it turns out, Ansible addresses many of the
+frustrations that I&amp;rsquo;ve had with Puppet, and allows me to be far more productive, without sacrificing any of the power of
+an ideopotent configuration managment tool.&lt;/p&gt;
+
+&lt;h3 id=&#34;installation:b128b7694e4de962e0088bcb1bcb254f&#34;&gt;Installation&lt;/h3&gt;
+
+&lt;p&gt;The first major advantage of Ansible over Puppet is it&amp;rsquo;s method of connection. Puppet uses a cetnralised server that
+implements it&amp;rsquo;s own certificate store. It talks over its own TCP ports, and requires a fixed server to host the Puppet
+Master. The agent has to be installed on each client, and enrolled with the Puppet Master. Ansible on the other hand c
+an be run from your laptop, and uses SSH to connect to the clients, generally meaning that the firewall is already open,
+or at the very least, is easy to open. Becuase it uses SSH, you can use the existing techniques to manage Key pairs for
+security, and it requires no agent to be installed.&lt;/p&gt;
+
+&lt;p&gt;This is a huge, huge deal when your introducing a new tool into an organisation. Many organisations I have worked in have&lt;/p&gt;
+
+&lt;h3 id=&#34;ease-of-use:b128b7694e4de962e0088bcb1bcb254f&#34;&gt;Ease of use&lt;/h3&gt;
+
+&lt;p&gt;Ansible has some of the best documentation it&amp;rsquo;s been my disctinct pleasure to come across. From the getting started guide,
+through to module usage, and custom development is all detailed; this isn&amp;rsquo;t to say that Puppet is any slouch when it comes
+to documentation, but there are elements which are less than obvious.&lt;/p&gt;
+
+&lt;h3 id=&#34;flexibility:b128b7694e4de962e0088bcb1bcb254f&#34;&gt;Flexibility&lt;/h3&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>PuppetDB 2.1.0 Has Been Released</title>
+      <link>http://www.stunthamster.io/posts/puppetdb210/</link>
+      <pubDate>Mon, 09 Jun 2014 17:01:19 +0000</pubDate>
+      
+      <guid>http://www.stunthamster.io/posts/puppetdb210/</guid>
+      <description>&lt;p&gt;It’s July, the sun is… Well, the sun is no where in site, but at least the PuppetDB chaps have given us some summer
+cheer.&lt;/p&gt;
+
+&lt;p&gt;PuppetDB 2.1.0 has been released, and it brings some cool new features for reporting, including a feature I thought was
+sorely missing, the ability to filter reports via the Puppet status (I.e. succeeded, failed). This is fantastic, as
+before this you could dive into the event data to find out what failed, but couldn’t approach it from the more logical
+report endpoint.&lt;/p&gt;
+
+&lt;p&gt;This makes creating your own dashboard around PuppetDB substantially easier, and means that adhoc reporting should also
+be a cinch using some simple Curls.&lt;/p&gt;
+
+&lt;p&gt;Possibly more exciting though, is the introduction of V4 of the PuppetDB query engine. Although touted as being somewhat
+of a sanity saver for the PuppetDB dev (Which is a shame, I prefer my devs a little mad), it’s also fantastic for the
+end user. Up until now, support for various operators has been either lacking, or non existent for certain endpoints,
+and the introduction of new endpoints has been slow. This has been in part due to the, in the words of the dev, the
+disjointed code base. With query engine V4 this is now a thing of the past, and should ensure that operators and
+features should start to appear much more rapidly.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

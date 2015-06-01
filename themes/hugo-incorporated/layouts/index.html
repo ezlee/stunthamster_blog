@@ -1,0 +1,38 @@
+{{ template "theme/partials/header.html" . }}
+
+<div class="blog-cover" style="background-image:url(/images/{{ .Site.Params.inc.cover_image }});">
+    
+    <section>
+        <div class="container">
+            <h1>{{ .Site.Params.inc.title }}</h1>
+            {{ with .Site.Params.inc.subtitle }}<h3>{{ . }}</h3>{{ end }}
+        
+            {{ with .Site.Params.inc.twitter }}
+            <a href="https://twitter.com/{{ . }}" title="Follow on Twitter" target="_blank"><i class="icon icon-twitter"></i></a>
+            {{ end }}
+            {{ with .Site.Params.inc.github }}
+            <a href="https://github.com/{{ . }}" title="Follow on Github" target="_blank"><i class="icon icon-github"></i></a>
+            {{ end }}
+            {{ with .Site.Params.inc.facebook }}
+            <a href="http://facebook.com/{{ . }}" title="Like on Facebook" target="_blank"><i class="icon icon-facebook"></i></a>
+            {{ end }}
+            <a href="/index.xml" title="RSS Feed">
+                <i class="icon icon-rss"></i>
+            </a>
+        </div>
+    </section>
+</div>
+
+
+<article class="container">
+
+    <p>DevOps is changing the face of operations, bringing Developers, Operators and stakeholders together to deliver
+        software that is both agile and reliable.
+    </p>
+
+    <p>DevOps brings huge advantages, but brings it's own challenges. We have worked with some of the most innovative
+        companies in the UK introducing DevOps tools and techniques, and are always </p>
+
+</article>
+
+{{ template "theme/partials/footer.html" . }}

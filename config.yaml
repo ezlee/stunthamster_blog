@@ -1,0 +1,51 @@
+---
+
+baseurl:            http://www.stunthamster.io/
+pygmentsuseclasses: true
+
+params:
+  inc:
+    # Blog Information
+    title:        "Stunt Hamster"
+    subtitle:     "DevOps done right"
+    cover_image:  blog-cover.jpg
+    logo:         logo.png
+    
+    # Company information
+    company:      Stunt Hamster ltd
+    url:          http://www.stunthamster.io/
+#    facebook:     
+    github:       stunthamster
+    twitter:      stunthamster
+#    gplus:        ''
+    about_link:   http://www.stunthamster.io/about/
+    blog_link:    http://www.stunthamster.io/posts/
+    
+    # Product Information
+    product_link: http://www.stunthamster.io/services/
+    
+    # Comments
+    disqus:
+      # Eg. "exampleblog" Set to false to disable comments
+      shortname:  stunthamster
+    
+    # Sharing settings
+    sharing:
+      twitter:    false
+      facebook:   false
+      gplus:      false
+      hn:         false
+      
+    
+   # Analytics     
+    analytics:
+      google: false # Add tracking code in _includes/_google-analytics.html
+#      piwik:
+#        domain: piwik.nilproductions.com
+#        siteid: 1  
+        
+    # Google Fonts
+    # eg. 'Droid+Sans:400,700|Droid+Serif:400,700'
+    google_font: 'Droid+Sans:400,700'
+    
+    # Setup your fonts, colors etc at _assets/stylesheets/main.scss
