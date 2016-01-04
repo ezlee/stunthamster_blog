@@ -1,13 +1,14 @@
+---
 sudo: required
-
 services:
   - docker
-
-before_install:
-  - docker build -t stunthamster/blog:latest .
+branches:
+  only:
+    - master
 
 script:
-  - docker push stunthamster/blog:latest
+- docker build -t stunthamster/blog:latest .
 
 after_success:
-    - echo "success"
+- docker login -e="$DOCKER_EMAIL" -u="$DOCKER_USERNAME" -p="$DOCKER_PASSWORD"
+- docker push stunthamster/blog:latest
