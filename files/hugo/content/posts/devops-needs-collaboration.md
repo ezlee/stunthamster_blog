@@ -4,8 +4,7 @@ date = "2014-03-13T17:01:19Z"
 draft = true
 title = " DevOps is not a magic bullet "
 description = " Or why the latest buzzword won’t save you "
-excerpt = "It’s July, the sun is… Well, the sun is no where in site, but at least the PuppetDB chaps have given us some
-summer cheer."
+excerpt = "It’s July, the sun is… Well, the sun is no where in site, but at least the PuppetDB chaps have given us some summer cheer."
 
 +++
 

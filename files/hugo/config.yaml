@@ -1,7 +1,8 @@
 ---
 
-baseurl:            http://www.stunthamster.io/
+baseurl:            http://www.stunthamster.com/
 pygmentsuseclasses: true
+theme:              hugo-incorporated
 
 params:
   inc:
@@ -13,16 +14,16 @@ params:
     
     # Company information
     company:      Stunt Hamster ltd
-    url:          http://www.stunthamster.io/
+    url:          http://www.stunthamster.com/
 #    facebook:     
     github:       stunthamster
     twitter:      stunthamster
 #    gplus:        ''
-    about_link:   http://www.stunthamster.io/about/
-    blog_link:    http://www.stunthamster.io/posts/
+    about_link:   http://www.stunthamster.com/about/
+    blog_link:    http://www.stunthamster.com/posts/
     
     # Product Information
-    product_link: http://www.stunthamster.io/services/
+    product_link: http://www.stunthamster.com/services/
     
     # Comments
     disqus:

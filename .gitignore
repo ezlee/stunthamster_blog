@@ -48,3 +48,9 @@ crashlytics.properties
 crashlytics-build.properties
 
 
+
+.vagrant/machines/default/digital_ocean/creator_uid
+
+.vagrant/machines/default/digital_ocean/id
+
+.vagrant/machines/default/digital_ocean/index_uuid
