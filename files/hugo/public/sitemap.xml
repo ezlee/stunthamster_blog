@@ -2,27 +2,43 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://www.stunthamster.io/</loc>
+    <loc>http://www.stunthamster.com/</loc>
     <lastmod>2015-02-11T17:01:19+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://www.stunthamster.io/posts/test/</loc>
+    <loc>http://www.stunthamster.com/posts/test/</loc>
     <lastmod>2015-02-11T17:01:19+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.stunthamster.io/posts/puppetdb210/</loc>
+    <loc>http://www.stunthamster.com/posts/puppetdb210/</loc>
     <lastmod>2014-06-09T17:01:19+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.stunthamster.io/services/</loc>
+    <loc>http://www.stunthamster.com/automation/</loc>
   </url>
   
   <url>
-    <loc>http://www.stunthamster.io/about/</loc>
+    <loc>http://www.stunthamster.com/consultancy/</loc>
+  </url>
+  
+  <url>
+    <loc>http://www.stunthamster.com/recruitment/</loc>
+  </url>
+  
+  <url>
+    <loc>http://www.stunthamster.com/services/</loc>
+  </url>
+  
+  <url>
+    <loc>http://www.stunthamster.com/support/</loc>
+  </url>
+  
+  <url>
+    <loc>http://www.stunthamster.com/about/</loc>
   </url>
   
 </urlset>

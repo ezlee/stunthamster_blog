@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title></title>
-    <link>http://www.stunthamster.io/</link>
+    <link>http://www.stunthamster.com/</link>
     <description>Recent content on </description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Wed, 11 Feb 2015 17:01:19 +0000</lastBuildDate>
-    <atom:link href="http://www.stunthamster.io/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://www.stunthamster.com/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Life without Puppet</title>
-      <link>http://www.stunthamster.io/posts/test/</link>
+      <link>http://www.stunthamster.com/posts/test/</link>
       <pubDate>Wed, 11 Feb 2015 17:01:19 +0000</pubDate>
       
-      <guid>http://www.stunthamster.io/posts/test/</guid>
+      <guid>http://www.stunthamster.com/posts/test/</guid>
       <description>
 
 &lt;p&gt;It&amp;rsquo;s been more than six months since I&amp;rsquo;ve written, commented on, or reviewed any Puppet code. This might come as a shock
@@ -49,10 +49,10 @@ to documentation, but there are elements which are less than obvious.&lt;/p&gt;
     
     <item>
       <title>PuppetDB 2.1.0 Has Been Released</title>
-      <link>http://www.stunthamster.io/posts/puppetdb210/</link>
+      <link>http://www.stunthamster.com/posts/puppetdb210/</link>
       <pubDate>Mon, 09 Jun 2014 17:01:19 +0000</pubDate>
       
-      <guid>http://www.stunthamster.io/posts/puppetdb210/</guid>
+      <guid>http://www.stunthamster.com/posts/puppetdb210/</guid>
       <description>&lt;p&gt;It’s July, the sun is… Well, the sun is no where in site, but at least the PuppetDB chaps have given us some summer
 cheer.&lt;/p&gt;
 
@@ -75,94 +75,95 @@ features should start to appear much more rapidly.&lt;/p&gt;
     
     <item>
       <title></title>
-      <link>http://www.stunthamster.io/services/</link>
+      <link>http://www.stunthamster.com/automation/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://www.stunthamster.io/services/</guid>
+      <guid>http://www.stunthamster.com/automation/</guid>
       <description>
 
-&lt;h2 id=&#34;devops-consultancy:bfc9941b6b6fd7b4ef09dd0ccd08af0c&#34;&gt;DevOps consultancy&lt;/h2&gt;
+&lt;h1 id=&#34;test:aa8a4255b24aebe764fdc81a33d693d7&#34;&gt;Test&lt;/h1&gt;
 
-&lt;h2 id=&#34;devops-recruitment:bfc9941b6b6fd7b4ef09dd0ccd08af0c&#34;&gt;DevOps recruitment&lt;/h2&gt;
+&lt;p&gt;This is a test&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://www.stunthamster.com/consultancy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.stunthamster.com/consultancy/</guid>
+      <description>
 
-&lt;h2 id=&#34;ansible-development:bfc9941b6b6fd7b4ef09dd0ccd08af0c&#34;&gt;Ansible development&lt;/h2&gt;
+&lt;h1 id=&#34;consultancy:6648c37b2be70c577c139755fda219cc&#34;&gt;Consultancy&lt;/h1&gt;
 
-&lt;p&gt;We specalise in using Ansible to provide rock solid automation for systems large and small. Using Ansible, we can deliver&lt;/p&gt;
+&lt;p&gt;Stunt Hamster speclises in&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://www.stunthamster.com/recruitment/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.stunthamster.com/recruitment/</guid>
+      <description>
 
-&lt;h2 id=&#34;docker-development:bfc9941b6b6fd7b4ef09dd0ccd08af0c&#34;&gt;Docker development&lt;/h2&gt;
+&lt;h1 id=&#34;devops-recruitment:a747c1bf9e7b4a9168ead6f9523cc51b&#34;&gt;DevOps recruitment&lt;/h1&gt;
 
-&lt;h2 id=&#34;bespoke-development:bfc9941b6b6fd7b4ef09dd0ccd08af0c&#34;&gt;Bespoke Development&lt;/h2&gt;
+&lt;p&gt;DevOps engineers are in huge demand right now, but finding the right one can be difficult.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://www.stunthamster.com/services/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.stunthamster.com/services/</guid>
+      <description>
 
-&lt;h2 id=&#34;writing:bfc9941b6b6fd7b4ef09dd0ccd08af0c&#34;&gt;Writing&lt;/h2&gt;
+&lt;h2 id=&#34;automation:bfc9941b6b6fd7b4ef09dd0ccd08af0c&#34;&gt;Automation&lt;/h2&gt;
+
+&lt;h2 id=&#34;consultancy:bfc9941b6b6fd7b4ef09dd0ccd08af0c&#34;&gt;Consultancy&lt;/h2&gt;
+
+&lt;h2 id=&#34;support:bfc9941b6b6fd7b4ef09dd0ccd08af0c&#34;&gt;Support&lt;/h2&gt;
+
+&lt;h2 id=&#34;recuitment:bfc9941b6b6fd7b4ef09dd0ccd08af0c&#34;&gt;Recuitment&lt;/h2&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://www.stunthamster.com/support/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.stunthamster.com/support/</guid>
+      <description>
+
+&lt;h1 id=&#34;devops-support:e39f786d0e9bcf34ce833b34fbb0c090&#34;&gt;DevOps support&lt;/h1&gt;
+
+&lt;p&gt;DevOps engineers can be expensive, either as full time staff or consultants. For Startups and small companies it can
+be a cost prohibitive skill to acquire.&lt;/p&gt;
+
+&lt;p&gt;Stunt Hamster offers an alternative, allowing your company access to highly skilled DevOps engineers for a fraction
+ of the cost. For a monthly retainer you have full access to the skills necessary to implement DevOps concepts such as 
+  Automation, monitoring and CI. You also have support for your applications and infrastructure, and advice on how to scale
+  and improve your service&lt;/p&gt;
+  
+
+&lt;p&gt;&lt;p&gt;Contact us now to find out how we can help you &lt;/p&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>About Stunt Hamster</title>
-      <link>http://www.stunthamster.io/about/</link>
+      <link>http://www.stunthamster.com/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://www.stunthamster.io/about/</guid>
-      <description>&lt;p&gt;Greetings&lt;/p&gt;
-
-&lt;p&gt;You’ve managed to find the corner of the internet that Michael Duffy lives. Hello! That’s me.&lt;/p&gt;
-
-&lt;p&gt;As you may have gathered by a brief look at the blog posts, I’m a freelance Devops Engineer and writer. If you looked
-at the front page and it’s empty, then I’ve either forgotten to upload the content, or I’m in the middle of yet another
-redesign. It’s probably the latter.&lt;/p&gt;
-
-&lt;p&gt;Let’s get to the heart of the matter, if your reading the about page, you probably want to know a little bit more about
-me, and what it is I do. Let’s take a look!&lt;/p&gt;
-
-&lt;p&gt;DevOps consultancy&lt;/p&gt;
-
-&lt;p&gt;I’ve been practicing a methodology akin to ‘DevOps’ before it became a buzzword that all the cool kids want to use.
-Essentially, this means that I’ve been an embedded systems administrator in many different development teams, and
-worked with those fine fellows to both improve the delivered product, and to smooth the deployment process. My roles
-generally take in everything from full stack automation, through to infrastructure design and architecture. I’ve worked
-for companies such as Telefonica O2 and BskyB, through to small startups, and can quite happily work with, and manage
-projects that are budgeted from anywhere from fifty million pounds through to fifty pence. Some of the projects I’ve
-worked on have been the design, implementation and automation of the infrastructure powering the online search features
-of the Sky set top box (Over three million connected clients), the automation of the o2.co.uk web pages
-(Including several iPhone launches, AKA a DDOS in a box), and the implementation of DevOps practices at several startups.&lt;/p&gt;
-
-&lt;p&gt;I enjoy working within Agile development teams, but equally, have worked with people who pray to the altar of
-prince 2 methodology; As long as your project is interesting, your team fun, and the coffee fair to middling, then
-I’m interested in working with you. I’m comfortable leading teams, and can introduce an existing team to DevOps
-practices, both from a technological point of view, but also from the point of view of integrating with agile practices.&lt;/p&gt;
-
-&lt;p&gt;I’m currently buzzword compatible with the existing technologies:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Ansible&lt;/li&gt;
-&lt;li&gt;Puppet&lt;/li&gt;
-&lt;li&gt;Docker&lt;/li&gt;
-&lt;li&gt;Redhat &amp;amp; Ubuntu Linux&lt;/li&gt;
-&lt;li&gt;Ruby&lt;/li&gt;
-&lt;li&gt;Bash&lt;/li&gt;
-&lt;li&gt;AWS&lt;/li&gt;
-&lt;li&gt;And of course the usual basic requirements for systems administrators such as TCP networking, firewalls, etc.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;If you’re interested in hiring me then drop me a line.&lt;/p&gt;
-
-&lt;p&gt;Writing&lt;/p&gt;
-
-&lt;p&gt;As you may have gathered from the occasional shameless plug on this site, I’m also a writer. My first book, Puppet
-Reporting and Monitoring is available from Packt Publishing. This fine tome takes you from the basics for Puppet
-reporting, and explores the ways you can leverage Puppets powerful, yet almost unspoken of, reporting mechanism to
-clue you into what’s going on with your infrastructure. I have two more books in development, one covering more of
-the DevOps toolchain, and the other a guide for writers to implement a more realistic, and yet hardcore, view of
-technology in fiction.&lt;/p&gt;
-
-&lt;p&gt;I’m available for freelance writing, and if you want me to cover topics ranging from DevOps techniques, general
-technology, or industry trends for your blog, magazine or internal corporate newsletter, then feel free to contact me.&lt;/p&gt;
-
-&lt;p&gt;Personal&lt;/p&gt;
-
-&lt;p&gt;I’m a slightly rotund chap with occasional mad hair, and a suspect beard. I live in Suffolk with my wife, daughter,
- and soon to be new baby. I ride motorbikes, fish, and spend an inordinate amount of time fixing the bits of my house that
-  keep falling apart.&lt;/p&gt;
+      <guid>http://www.stunthamster.com/about/</guid>
+      <description>&lt;p&gt;Stunt Hamster is a DevOps focused consultancy, specialising in the delivery of automation, monitoring and continuous
+integration. We work with clients large and small across a wide variety of industries.&lt;/p&gt;
 </description>
     </item>
     

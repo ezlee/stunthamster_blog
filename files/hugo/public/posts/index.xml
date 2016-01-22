@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on </title>
-    <link>http://www.stunthamster.io/posts/</link>
+    <link>http://www.stunthamster.com/posts/</link>
     <description>Recent content in Posts on </description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Wed, 11 Feb 2015 17:01:19 +0000</lastBuildDate>
-    <atom:link href="http://www.stunthamster.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://www.stunthamster.com/posts/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Life without Puppet</title>
-      <link>http://www.stunthamster.io/posts/test/</link>
+      <link>http://www.stunthamster.com/posts/test/</link>
       <pubDate>Wed, 11 Feb 2015 17:01:19 +0000</pubDate>
       
-      <guid>http://www.stunthamster.io/posts/test/</guid>
+      <guid>http://www.stunthamster.com/posts/test/</guid>
       <description>
 
 &lt;p&gt;It&amp;rsquo;s been more than six months since I&amp;rsquo;ve written, commented on, or reviewed any Puppet code. This might come as a shock
@@ -49,10 +49,10 @@ to documentation, but there are elements which are less than obvious.&lt;/p&gt;
     
     <item>
       <title>PuppetDB 2.1.0 Has Been Released</title>
-      <link>http://www.stunthamster.io/posts/puppetdb210/</link>
+      <link>http://www.stunthamster.com/posts/puppetdb210/</link>
       <pubDate>Mon, 09 Jun 2014 17:01:19 +0000</pubDate>
       
-      <guid>http://www.stunthamster.io/posts/puppetdb210/</guid>
+      <guid>http://www.stunthamster.com/posts/puppetdb210/</guid>
       <description>&lt;p&gt;It’s July, the sun is… Well, the sun is no where in site, but at least the PuppetDB chaps have given us some summer
 cheer.&lt;/p&gt;
 
